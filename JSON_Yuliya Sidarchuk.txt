@@ -1,0 +1,36 @@
+{
+   "name":"White Russian",
+   "glass":"rocks",
+   "ingredients":[
+      {
+         "unit":"g",
+         "amount":30,
+         "ingredient":"Finlandia vodka"
+      },
+      {
+         "unit":"g",
+         "amount":30,
+         "ingredient":"BOLS coffee liqueur"
+      },
+      {
+         "unit":"g",
+         "amount":30,
+         "ingredient":"Light cream"
+      },
+      {
+         "unit":"g",
+         "amount":120,
+         "ingredient":"Cube ice"
+      },
+      {
+         "special":"1 Jigger"
+      },
+      {
+         "special":"1 coctail spoon"
+      },
+      {
+         "special":"2 straws"
+      }
+   ],
+   "preparation":"Using jigger add Finlandia vodka and BOLS coffee liqueur to a rocks glass filled with ice. With a coctail spoon create a layer of light cream on the top of the drink. Serve with 2 straws."
+}
